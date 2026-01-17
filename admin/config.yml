@@ -1,12 +1,8 @@
-site_url: https://kupri-val.github.io/test-child
-display_url: https://kupri-val.github.io/test-child
-
 backend:
   name: github
   repo: kupri-val/test-child
   branch: main
-  base_url: https://auth.decapcms.org
-  auth_endpoint: auth
+  gateway_url: https://decapcms-github-oauth.netlify.app
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
