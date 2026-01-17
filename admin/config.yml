@@ -2,7 +2,7 @@ backend:
   name: github
   repo: kupri-val/test-child
   branch: main
-  gateway_url: https://decapcms-github-oauth.netlify.app
+  gateway_url: https://decapcms-github-oauth.netlify.app/.netlify/functions/auth
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
