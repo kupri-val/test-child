@@ -6,7 +6,7 @@ backend:
   repo: kupri-val/test-child
   branch: main
   base_url: https://auth.decapcms.org
-  auth_endpoint: oauth
+  auth_endpoint: auth
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
