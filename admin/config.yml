@@ -1,3 +1,6 @@
+site_url: https://kupri-val.github.io/test-child
+display_url: https://kupri-val.github.io/test-child
+
 backend:
   name: github
   repo: kupri-val/test-child
@@ -19,7 +22,3 @@ collections:
       - { label: "Дата", name: "date", widget: "datetime" }
       - { label: "Текст", name: "body", widget: "markdown" }
       - { label: "Показывать на главной", name: "featured", widget: "boolean", default: false }
-
-
-
-
