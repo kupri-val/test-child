@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: kupri-val/kids-site
+  repo: kupri-val/test-child
   branch: main
 
 media_folder: "assets/uploads"
